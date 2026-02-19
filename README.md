@@ -4097,3 +4097,4 @@ We encourage you to fork this guide and change the rules to fit your teamтАЩs st
 # };
 "Branch2 : первое изменение" 
 "branch2: второе изменение" 
+"Branch2 : третье изменение" 
